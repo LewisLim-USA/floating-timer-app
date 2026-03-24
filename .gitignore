@@ -1,0 +1,4 @@
+floating_timer_note.txt
+*.lnk
+__pycache__/
+*.pyc
