@@ -1,4 +1,1 @@
-@echo off
-pip install pyinstaller
-pyinstaller --onefile --noconsole floating_timer.pyw
-pause
+py -3.13 "c:/Users/lewis/Documents/Github_Xiang/timer app/floating_timer.pyw"
